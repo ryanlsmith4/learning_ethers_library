@@ -14,8 +14,10 @@
 - allow http in browser to commiuncate with local
 - Done!
 # The goal 
-[x] get familiar with ethis.
-[x] recieve the 10 most recent blocks on the etherium block chain
+[x] get familiar with ethis.  
+
+[x] recieve the 10 most recent blocks on the etherium block chain  
+
 
 # Contributors 
 - ryanlsmith4
