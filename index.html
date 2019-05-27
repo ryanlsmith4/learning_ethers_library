@@ -33,7 +33,7 @@
         lastBlockNumber.then(function (number){
             for (var i = 0; i < 10; i++) {
                 console.log(number - i)
-                ethers.blockchain.getBlockNumber(number - i).then(function (block) {
+                ethers.blockchain.getBlock(number - i).then(function (block) {
                     console.log(block)
                     printBlock(block);
                 });

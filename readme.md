@@ -1,8 +1,8 @@
 # Learning Ethers Library to begin making daps
 
 # The goal 
-    get familiar with ethis.
-    then make a personal project to get familiar with the process of making apps for the blockchain
+[x] get familiar with ethis.
+[x] recieve the 10 most recent blocks on the etherium block chain
 
 # Contributors 
 - ryanlsmith4
